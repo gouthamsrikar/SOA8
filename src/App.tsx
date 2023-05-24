@@ -1,13 +1,15 @@
-import React from 'react';
+// import React from 'react';
+// import Tile from './components/tile';
+// import TileRowGenerator from './components/tile_row_generator';
+
+
+
+
 
 function App() {
   return (
     <div className="App">
-      <header className="20A8">
-       <div>
-        20A8
-       </div>
-      </header>
+
     </div>
   );
 }
